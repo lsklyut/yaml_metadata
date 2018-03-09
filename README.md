@@ -8,4 +8,6 @@ TODO:
 
 - column attributes
 - tests
+- yaml declaration should be compatible with PHP's Doctrine
+- ability to generate Python/PHP POPO's sans doctrine/sqlalchemy, ignoring attributes
 - ?
